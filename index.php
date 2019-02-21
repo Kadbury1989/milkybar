@@ -5,4 +5,9 @@ class thisclassnameiswrong {
   private function unusedfunction($thisParamIsAlsoNotUsed) {
     
   }
+  
+  public function someFunctionb()
+  {
+	  $a = 10;
+  }
 }
